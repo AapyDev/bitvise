@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-# Hi, I'm bitvise 😁!
+# Hi, I'm bitvise 😅!
 * ✨I am coding in Java and learning more about the API (Bukkit/Spigot/Bungee) ✨.
 
 # Experience
