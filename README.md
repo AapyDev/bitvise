@@ -10,10 +10,9 @@
 
 # Experience
 I'm worked on the following minecraft servers:
-* sades.pw
+* solexgame.net
 * kiopvp.live
-* zyrex.pw
-* vealypvp.us
+* sades.pw
 
 I'm currently working for the following servers:
 * vealypvp.us
