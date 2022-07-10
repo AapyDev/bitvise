@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!;My+name+is+Piche.;I+am+a+Minecraft+Developer." />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!;My+name+is+bitvise.;I+am+a+Minecraft+Developer." />
   </a>
   <br>
 </h1>
@@ -32,5 +32,5 @@ I'm learning MySQL, MongoDB, Git, Redis, Java, Kotlin, etc
 
 # Stats
 <a href="https://github.com/pichedev">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pichedev&show_icons=true&count_private=true&bg_color=45,000000,161ba7,00add0&title_color=fff&text_color=fff" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bitvise&show_icons=true&count_private=true&bg_color=45,000000,161ba7,00add0&title_color=fff&text_color=fff" />
 </a>
