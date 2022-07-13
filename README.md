@@ -10,12 +10,12 @@
 
 # Experience
 I'm worked on the following minecraft servers:
-* solexgame.net
-* kiopvp.live
-* sades.pw
+* kiopvp.live (Developer)
+* vealypvp.us (Head Developer)
+* storm.gg (Head Developer)
 
 I'm currently working for the following servers:
-* vealypvp.us
+* sadesgames.net (Owner)
 
 # Language
 I'm learning MySQL, MongoDB, Git, Redis, Java, Kotlin, etc
