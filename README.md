@@ -10,12 +10,14 @@
 
 # Experience
 I'm worked on the following minecraft servers:
-* kiopvp.live (Developer)
-* vealypvp.us (Head Developer)
-* storm.gg (Head Developer)
+* solex.club
+* zyrex.pw
+* kiopvp.live
+* vealypvp.us
+* infernalmc.cc
 
 I'm currently working for the following servers:
-* sadesgames.net (Owner)
+* sadesgames.net
 
 # Language
 I'm learning MySQL, MongoDB, Git, Redis, Java, Kotlin, etc
