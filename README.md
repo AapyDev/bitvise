@@ -30,6 +30,6 @@ I'm learning MySQL, MongoDB, Git, Redis, Java, Kotlin, etc
 </div>
 
 # Stats
-<a href="https://github.com/pichedev">
+<a href="https://github.com/bitvise">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=bitvise&show_icons=true&count_private=true&bg_color=45,000000,161ba7,00add0&title_color=fff&text_color=fff" />
 </a>
