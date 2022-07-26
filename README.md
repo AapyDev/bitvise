@@ -18,6 +18,7 @@ I'm worked on the following minecraft servers:
 
 I'm currently working for the following servers:
 * sadesgames.net
+* vaint.us
 
 # Language
 I'm learning MySQL, MongoDB, Git, Redis, Java, Kotlin, etc
